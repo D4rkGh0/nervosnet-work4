@@ -10,5 +10,5 @@ Issue an SUDT Token on Layer 1 and Deposit it to Layer 2
 <img width="982" alt="Deposit_SUDT_L2" src="https://user-images.githubusercontent.com/88662107/128843548-e8907ec7-6168-4bb9-a2e9-7aae2cd8b257.png">
 <img width="541" alt="SUDT_confirmation" src="https://user-images.githubusercontent.com/88662107/128843612-29c2b9b2-b41a-46f5-8b1a-b74a5d59797d.png">
 
-5. Your account id: 1243
+5. Your account id: 1319
 
